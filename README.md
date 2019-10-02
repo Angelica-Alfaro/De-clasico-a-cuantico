@@ -1,5 +1,6 @@
 # El salto de lo clásico a lo cuántico.
 
+
 ***Encabezado:***
 
 CNYT (Ciencias naturales y tecnología)
@@ -13,6 +14,7 @@ Octubre- 2019
 Escuela Colombiana de Ingeniería Julio Garavito, Bogotá
 
 María Angélica Alfaro Fandiño
+
 
 
 ***Descripción:***
@@ -36,6 +38,7 @@ La dinámica de un sistema se puede enfocar desde cada uno de los siguientes pun
 •	Cuántico. (Grafos con peso en los números complejos)
 
 
+
 ***Sistemas clásicos deterministas:***
 
 1.	Los estados de un sistema determinista corresponden a vectores columna.
@@ -43,6 +46,7 @@ La dinámica de un sistema se puede enfocar desde cada uno de los siguientes pun
 2.	Las dinámicas de un sistema determinista corresponden a matrices.
 
 3.	Para avanzar de un estado a otro en un click de tiempo, se debe multiplicar el vector de estado por una matriz.
+
 
 
 ***Sistemas clásicos probabilísticos:***
@@ -54,9 +58,10 @@ La dinámica de un sistema se puede enfocar desde cada uno de los siguientes pun
 3.	El progreso de la indeterminación de da mediante la multiplicación de matrices.
 
 
+
 ***Sistemas cuánticos:***
 
-1.	Los estados de un sistema cuántico están representados por vectores columna de números complejos cuya suma de módulos al cuadrado es 1.
+1.	Los estados de un sistema cuántico están representados por vectores columna de números complejos cuya suma de módulos al cuadrado es 1
 
 2.	Las dinámicas de un sistema cuántico están representadas por matrices unitarias.
 
@@ -69,6 +74,8 @@ Se muestra el resultado obtenido de cada una de las funciones. Dichas funciones 
 
 
 ***Entorno:***
+
 • Python 3.
+
 • GitHub.
 
