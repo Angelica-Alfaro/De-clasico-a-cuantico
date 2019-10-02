@@ -1,4 +1,4 @@
-El salto de lo clásico a lo cuántico.
+# El salto de lo clásico a lo cuántico.
 
 ***Encabezado:***
 
